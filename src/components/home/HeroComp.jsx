@@ -5,7 +5,7 @@ const HeroComp = () =>{
             <div className="hero-content">
                 <h1>NYMO</h1>
                 <h3>National Youth Math Olympiad</h3>
-                <p>Pendaftaran Olimpiade Matematika Nasional telah dibuka! Bergabunglah <br /> dengan acara bergengsi ini dan dapatkan pengalaman matematika yang tak terlupakan!</p>
+                {/* <p>Pendaftaran Olimpiade Matematika Nasional telah dibuka! Bergabunglah <br /> dengan acara bergengsi ini dan dapatkan pengalaman matematika yang tak terlupakan!</p> */}
                     <br />
                     <div className="hero-social-icon">   
                         <a href="https://www.facebook.com/profile.php?id=100063979907207" target='_blank'><i className="fab fa-facebook-f facebook-bg"></i></a>
