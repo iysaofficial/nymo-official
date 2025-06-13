@@ -16,7 +16,7 @@ const HeroComp = () =>{
                     </div>
                     <br />
                     <br />
-                    <a href="https://registrasi-nymo-2025.vercel.app/" className="btn">Registrasi</a>
+                    <a href="#" className="btn">Registrasi di Tutup</a>
             </div>
             <div className="hero-img">
                 <img src="./assets/images/logo/NYMO.png" alt="" />
