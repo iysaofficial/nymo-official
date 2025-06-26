@@ -44,7 +44,7 @@ const ListOfWinnerDetail2025Comp = () => {
                         <i class="fa-solid fa-trophy"></i>
                     </div>
                     <div className="content">
-                        <h2>Daftar Pemenang Online</h2>
+                        <h2>Daftar Pemenang Online - SMA</h2>
                         <br />
                         <a href="https://drive.google.com/file/d/1duk7iToyeeGJ2raSYA1Ck-EhbpTLttqr/view?usp=sharing" target="_blank" className="low-detail-document-button">Download</a>
                     </div>
