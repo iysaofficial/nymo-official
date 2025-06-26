@@ -108,14 +108,13 @@ const GalleryComp = () => {
       <div className="gallery-wrapper">
         <i id="left" className="fa-solid fa-angle-left" ref={leftArrowRef}></i>
         <div className="gallery-carousel" ref={carouselRef}>
-          <img src="./assets/images/gallery/1.jpg" alt="img" draggable="false" ref={firstImageRef} />
-          <img src="./assets/images/gallery/2.jpg" alt="img" draggable="false" />
+          <img src="./assets/images/gallery/1.PNG" alt="img" draggable="false" ref={firstImageRef} />
+          <img src="./assets/images/gallery/2.PNG" alt="img" draggable="false" />
           <img src="./assets/images/gallery/3.PNG" alt="img" draggable="false" />
-          <img src="./assets/images/gallery/4.PNG" alt="img" draggable="false" />
+          <img src="./assets/images/gallery/4.jpg" alt="img" draggable="false" />
           <img src="./assets/images/gallery/5.PNG" alt="img" draggable="false" />
-          <img src="./assets/images/gallery/6.PNG" alt="img" draggable="false" />
+          <img src="./assets/images/gallery/6.jpg" alt="img" draggable="false" />
           <img src="./assets/images/gallery/7.PNG" alt="img" draggable="false" />
-          <img src="./assets/images/gallery/8.PNG" alt="img" draggable="false" />
         </div>
         <i id="right" className="fa-solid fa-angle-right" ref={rightArrowRef}></i>
       </div>

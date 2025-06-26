@@ -16,7 +16,7 @@ const HeroComp = () =>{
                     </div>
                     <br />
                     <br />
-                    <a href="#" className="btn">Registrasi di Tutup</a>
+                    <a href="#" className="btn">Segera Hadir 2026</a>
             </div>
             <div className="hero-img">
                 <img src="./assets/images/logo/NYMO.png" alt="" />

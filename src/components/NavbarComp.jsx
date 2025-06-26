@@ -68,13 +68,15 @@ const NavbarComp = () =>{
                     <li className='menu-item'>
                         <a className='sub-btn' href="#">Sertifikat Supervisor <i className='fas fa-angle-down'></i></a>
                         <ul className='sub-menu'>
-                            <li className='sub-item'><a href="https://drive.google.com/drive/folders/12E1GQL35Lh6mdeu_UC6sPmsuHrQiZ8TF?usp=sharing" target='_blank'>Sertifikat Supervisor 2024 Batch 2 </a></li>
-                            <li className='sub-item'><a href="https://drive.google.com/drive/folders/1abltuUGnoadJY3jI6k1SwfPAwFMiI2pE?usp=sharing" target='_blank'>Sertifikat Supervisor 2024 Batch 1 </a></li>
+                            <li className='sub-item'><a href="https://drive.google.com/drive/folders/1Wf8BhxkJzcfTkLfWzv53ktNz_PBqRi70?usp=sharing" target='_blank'>Sertifikat Supervisor 2025</a></li>
+                            <li className='sub-item'><a href="https://drive.google.com/drive/folders/12E1GQL35Lh6mdeu_UC6sPmsuHrQiZ8TF?usp=sharing" target='_blank'>Sertifikat Supervisor 2024 Batch 2</a></li>
+                            <li className='sub-item'><a href="https://drive.google.com/drive/folders/1abltuUGnoadJY3jI6k1SwfPAwFMiI2pE?usp=sharing" target='_blank'>Sertifikat Supervisor 2024 Batch 1</a></li>
                         </ul>
                     </li>
                     <li className='menu-item'>
                         <a className='sub-btn' href="#">Galeri <i className='fas fa-angle-down'></i></a>
                         <ul className='sub-menu'>
+                            <li className='sub-item'><a href="https://drive.google.com/drive/folders/1g_FTKMi1CdUKKFrvOyhysCSKpPtPHCOY?usp=sharing" target='_blank'>2025</a></li>
                             <li className='sub-item'><a href="https://drive.google.com/drive/folders/10artUlCgYN-HCwMYNbLX4kOvM-3aHAt5?usp=sharing" target='_blank'>2024 Batch 2</a></li>
                             <li className='sub-item'><a href="https://drive.google.com/drive/folders/185S8hjYznLup_CeedtzBeIR0mPWeVCCI?usp=sharing" target='_blank'>2024 Batch 1</a></li>
                         </ul>

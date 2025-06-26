@@ -3,7 +3,7 @@ const ListOfWinnerAllComp = () => {
         <>
         <section className='website-event-section'>
         <div class="container">
-            {/* <div class="box">
+            <div class="box">
                 <div class="content">
                     <div class="icon">
                         <i class="fa-solid fa-trophy"></i>
@@ -12,7 +12,7 @@ const ListOfWinnerAllComp = () => {
                         <a href="ListOfWinnerDetail2025Page">List of Winner 2025</a>
                     </div>
                 </div>
-            </div> */}
+            </div>
             <div class="box">
                 <div class="content">
                     <div class="icon">

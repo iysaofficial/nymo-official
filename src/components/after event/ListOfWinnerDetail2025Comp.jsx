@@ -3,18 +3,18 @@ const ListOfWinnerDetail2025Comp = () => {
         <>
         <section className="low-detail-header-section">
             <div className="low-detail-header-content">
-                <h2>OS2MN 2025</h2>
+                <h2>NYMO 2025</h2>
             </div>
         </section>
         <section className="low-detail-after-event-section" id="low-detail-after-event">
             <div className="low-detail-after-event-heading">
-                <h1 className="section-header">After Event OS2MN 2025</h1>
+                <h1 className="section-header">After Event NYMO 2025</h1>
             </div>
             <div className="low-detail-after-event-container">
                 <div className="low-detail-after-event-row">
 
                     <div className="low-detail-after-event-video">
-                        <iframe className="mt-5"  width="100%" height="315" src="https://www.youtube.com/embed/EKgYlyUOcyo?si=ldHza5XqJl1-3NyB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                        <iframe className="mt-5"  width="100%" height="315" src="https://www.youtube.com/embed/eG7LbaLGfW8?si=UOE0t-7w2jn-CNSa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                     </div>
         
                     <div className="low-detail-after-event-p">
@@ -46,20 +46,9 @@ const ListOfWinnerDetail2025Comp = () => {
                     <div className="content">
                         <h2>Daftar Pemenang Online</h2>
                         <br />
-                        <a href="https://drive.google.com/file/d/1oZ0Hk1MTSYd7QAb7UqLC-WZ0I6XE-_zz/view?usp=sharing" target="_blank" className="low-detail-document-button">Download</a>
+                        <a href="https://drive.google.com/file/d/1duk7iToyeeGJ2raSYA1Ck-EhbpTLttqr/view?usp=sharing" target="_blank" className="low-detail-document-button">Download</a>
                     </div>
                 </div>
-
-                {/* <div className="serviceBox">
-                    <div className="icon" style={{"--i":"#0A6847"}}>
-                        <i class="fa-solid fa-trophy"></i>
-                    </div>
-                    <div className="content">
-                        <h2>Daftar Pemenang Offline</h2>
-                        <br />
-                        <a href="#" className="low-detail-document-button">Download</a>
-                    </div>
-                </div> */}
 
                 <div className="serviceBox">
                     <div className="icon" style={{"--i":"#0A6847"}}>
@@ -68,20 +57,10 @@ const ListOfWinnerDetail2025Comp = () => {
                     <div className="content">
                         <h2>Kurasi</h2>
                         <br />
-                        <a href="#" target="_blank" className="low-detail-document-button">Coming Soon</a>
+                        <a href="#" target="_blank" className="low-detail-document-button">Segera Hadir</a>
                     </div>
                 </div>
 
-                {/* <div className="serviceBox">
-                    <div className="icon" style={{"--i":"#0A6847"}}>
-                        <i class="fa-solid fa-certificate"></i>
-                    </div>
-                    <div className="content">
-                        <h2>Sertifikat Supervisor</h2>
-                        <br />
-                        <a href="#" className="low-detail-document-button">Download</a>
-                    </div>
-                </div> */}
                 <br />
                 <br />
                 <br />
@@ -97,15 +76,16 @@ const ListOfWinnerDetail2025Comp = () => {
                 <div class="low-press-release-container">
                     <div class="low-press-release-wrapper">
 
-                    <iframe src="https://drive.google.com/file/d/1_o8wQcKE1CzqaNCdCXjjib6C0UsI1E_Q/preview"></iframe>
+                    <iframe src="https://drive.google.com/file/d/1gWAHslZM9SSWavNy2ljkp8XfUbLeeMbb/preview"></iframe>
                     
                     </div>
                 </div>
             </section>
             <div className="low-press-release-button-container">
-                <a href="https://drive.google.com/file/d/1_o8wQcKE1CzqaNCdCXjjib6C0UsI1E_Q/view?usp=sharing " className="low-press-release-button">Download Press Release</a>
+                <a href="https://drive.google.com/file/d/1gWAHslZM9SSWavNy2ljkp8XfUbLeeMbb/view?usp=sharing" className="low-press-release-button">Download Press Release</a>
             </div>
         </section>
+        <br />
         </>
     )
 }
